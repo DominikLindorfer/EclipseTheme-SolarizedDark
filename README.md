@@ -1,6 +1,6 @@
 # Solarized-Dark Theme for Eclipse CDT
 
-##Install
+## Install
 
 To install this Solarized-Dark Theme in Eclipse CDT (for C++) go to
 
