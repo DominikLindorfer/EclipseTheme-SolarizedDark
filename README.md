@@ -11,4 +11,5 @@ File - Import - General - Preferences
 
 Press **Next** and then browse for the **.epf** file. Check the **Import all** box and click **Finish**.
 
-![Install](https://user-images.githubusercontent.com/21077042/47446517-b5938400-d7bb-11e8-8b37-ffec1c4e4078.png)
+![Install](https://user-images.githubusercontent.com/21077042/47447143-2ab38900-d7bd-11e8-97b4-d535183b2365.png)
+
